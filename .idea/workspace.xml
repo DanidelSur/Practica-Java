@@ -43,6 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Developer/ProyectosIntellijIDEA/Practica-Java-01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +56,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Developer\ProyectosIntellijIDEA\Practica-Java-01" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +79,7 @@
       <workItem from="1677705924941" duration="5341000" />
       <workItem from="1677790492864" duration="5564000" />
       <workItem from="1677806177347" duration="5011000" />
-      <workItem from="1677859439485" duration="10743000" />
+      <workItem from="1677859439485" duration="11348000" />
     </task>
     <servers />
   </component>
